@@ -1,117 +1,100 @@
 #include <stdio.h>
-#include <stdio.h>
 #include <string.h>
 
-#define MAX 100  
+#define MAX 100
 
 struct Book {
-    char title[50];
-    char author[50];
-    int year;
+    char title[100];
+    char author[100];
+    int year;
 };
 
-
-void addBook(struct Book books[], int *count);
-void displayBooks(struct Book books[], int count);
-void searchBook(struct Book books[], int count);
-
 int main() {
-    struct Book books[MAX];
-    int count = 0;
-    int choice;
+    struct Book books[MAX];
+    int count = 0;
+    int choice;
 
-    while (1) {
-        printf("\n===== BOOK MANAGEMENT SYSTEM =====\n");
-        printf("1. Add New Book\n");
-        printf("2. Display All Books\n");
-        printf("3. Search Book by Title\n");
-        printf("4. Exit\n");
-        printf("Enter your choice: ");
-        scanf("%d", &choice);
-        getchar(); 
+    while (1) {
+        printf("\n===== Book Record System =====\n");
+        printf("1. Add Book\n");
+        printf("2. Display Books\n");
+        printf("3. Search Book\n");
+        printf("4. Exit\n");
+        printf("Enter choice: ");
+        scanf("%d", &choice);
+        getchar();   // clear input buffer
 
-        switch (choice) {
-            case 1:
-                addBook(books, &count);
-                break;
+        if (choice == 1) {
+            // Add a book
+            if (count >= MAX) {
+                printf("Book list is full!\n");
+                continue;
+            }
 
-            case 2:
-                displayBooks(books, count);
-                break;
+            printf("Enter title: ");
+            fgets(books[count].title, 100, stdin);
+            books[count].title[strcspn(books[count].title, "\n")] = 0;
 
-            case 3:
-                searchBook(books, count);
-                break;
+            printf("Enter author: ");
+            fgets(books[count].author, 100, stdin);
+            books[count].author[strcspn(books[count].author, "\n")] = 0;
 
-            case 4:
-                printf("Exiting...\n");
-                return 0;
+            printf("Enter year: ");
+            scanf("%d", &books[count].year);
+            getchar();
 
-            default:
-                printf("Invalid choice! Try again.\n");
-        }
-    }
-}
+            count++;
+            printf("Book added successfully!\n");
+        }
 
+        else if (choice == 2) {
+            // Display all books
+            if (count == 0) {
+                printf("No books available.\n");
+                continue;
+            }
 
-void addBook(struct Book books[], int *count) {
-    if (*count >= MAX) {
-        printf("Book list is full!\n");
-        return;
-    }
+            printf("\n===== Book List =====\n");
+            for (int i = 0; i < count; i++) {
+                printf("\nBook %d:\n", i + 1);
+                printf("Title : %s\n", books[i].title);
+                printf("Author: %s\n", books[i].author);
+                printf("Year  : %d\n", books[i].year);
+            }
+        }
 
-    printf("Enter Book Title: ");
-    fgets(books[*count].title, 50, stdin);
-    books[*count].title[strcspn(books[*count].title, "\n")] = '\0';
+        else if (choice == 3) {
+            // Search a book
+            char searchTitle[100];
+            printf("Enter title to search: ");
+            fgets(searchTitle, 100, stdin);
+            searchTitle[strcspn(searchTitle, "\n")] = 0;
 
-    printf("Enter Author Name: ");
-    fgets(books[*count].author, 50, stdin);
-    books[*count].author[strcspn(books[*count].author, "\n")] = '\0';
+            int found = 0;
+            for (int i = 0; i < count; i++) {
+                if (strcmp(books[i].title, searchTitle) == 0) {
+                    printf("\nBook Found!\n");
+                    printf("Title : %s\n", books[i].title);
+                    printf("Author: %s\n", books[i].author);
+                    printf("Year  : %d\n", books[i].year);
+                    found = 1;
+                    break;
+                }
+            }
 
-    printf("Enter Year of Publication: ");
-    scanf("%d", &books[*count].year);
-    getchar(); 
+            if (!found)
+                printf("Book not found.\n");
+        }
 
-    (*count)++;
-    printf("Book added successfully!\n");
-}
+        else if (choice == 4) {
+            printf("Exiting...\n");
+            break;
+        }
 
-void displayBooks(struct Book books[], int count) {
-    if (count == 0) {
-        printf("No books to display.\n");
-        return;
-    }
+        else {
+            printf("Invalid choice! Try again.\n");
+        }
+    }
 
-    printf("\n----- List of Books -----\n");
-    for (int i = 0; i < count; i++) {
-        printf("\nBook %d:\n", i + 1);
-        printf("Title : %s\n", books[i].title);
-        printf("Author: %s\n", books[i].author);
-        printf("Year  : %d\n", books[i].year);
-    }
-}
-
-
-void searchBook(struct Book books[], int count) {
-    char searchTitle[50];
-    int found = 0;
-
-    printf("Enter the title to search: ");
-    fgets(searchTitle, 50, stdin);
-    searchTitle[strcspn(searchTitle, "\n")] = '\0';
-
-    for (int i = 0; i < count; i++) {
-        if (strcmp(books[i].title, searchTitle) == 0) {
-            printf("\nBook Found:\n");
-            printf("Title : %s\n", books[i].title);
-            printf("Author: %s\n", books[i].author);
-            printf("Year  : %d\n", books[i].year);
-            found = 1;
-            break;
-        }
-    }
-
-    if (!found) {
-        printf("Book not found!\n");
-    }
+    return 0;
 }
