@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamA7-ai/c-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
