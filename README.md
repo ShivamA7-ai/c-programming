@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0054-spiral-matrix) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
