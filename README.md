@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamA7-ai/c-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ShivamA7-ai/c-programming/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
