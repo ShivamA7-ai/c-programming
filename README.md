@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ShivamA7-ai/c-programming/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
