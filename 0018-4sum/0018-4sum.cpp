@@ -23,18 +23,10 @@ public:
 
                 while (left < right) {
 
-                    long long sum = (long long)nums[i]
-                                  + nums[j]
-                                  + nums[left]
-                                  + nums[right];
+                    long long sum = (long long)nums[i]+ nums[j]+ nums[left]+ nums[right];
 
                     if (sum == target) {
-                        res.push_back({
-                            nums[i],
-                            nums[j],
-                            nums[left],
-                            nums[right]
-                        });
+                        res.push_back({nums[i],nums[j],nums[left], nums[right]});
 
                         
                         while (left < right && nums[left] == nums[left + 1])
