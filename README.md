@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamA7-ai/c-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivamA7-ai/c-programming/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
@@ -100,4 +102,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
