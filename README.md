@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShivamA7-ai/c-programming/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Manacher
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamA7-ai/c-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
