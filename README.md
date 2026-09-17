@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/ShivamA7-ai/c-programming/tree/master/1572-matrix-diagonal-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamA7-ai/c-programming/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamA7-ai/c-programming/tree/master/0073-set-matrix-zeroes) |
+| [1572-matrix-diagonal-sum](https://github.com/ShivamA7-ai/c-programming/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
