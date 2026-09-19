@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/ShivamA7-ai/c-programming/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Dynamic Programming
