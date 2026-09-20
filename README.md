@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
