@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/ShivamA7-ai/c-programming/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivamA7-ai/c-programming/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ShivamA7-ai/c-programming/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
