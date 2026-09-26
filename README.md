@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+| [0836-rectangle-overlap](https://github.com/ShivamA7-ai/c-programming/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivamA7-ai/c-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamA7-ai/c-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ShivamA7-ai/c-programming/tree/master/3870-count-commas-in-range) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ShivamA7-ai/c-programming/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
