@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Manacher
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShivamA7-ai/c-programming/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ShivamA7-ai/c-programming/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ShivamA7-ai/c-programming/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivamA7-ai/c-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamA7-ai/c-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -169,9 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShivamA7-ai/c-programming/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
