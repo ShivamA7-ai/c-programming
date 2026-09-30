@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ShivamA7-ai/c-programming/tree/master/1572-matrix-diagonal-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShivamA7-ai/c-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamA7-ai/c-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
