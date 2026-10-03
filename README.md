@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ShivamA7-ai/c-programming/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ShivamA7-ai/c-programming/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamA7-ai/c-programming/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShivamA7-ai/c-programming/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ShivamA7-ai/c-programming/tree/master/0031-next-permutation) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamA7-ai/c-programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
