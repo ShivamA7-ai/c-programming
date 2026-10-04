@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ShivamA7-ai/c-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamA7-ai/c-programming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ShivamA7-ai/c-programming/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ShivamA7-ai/c-programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamA7-ai/c-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
