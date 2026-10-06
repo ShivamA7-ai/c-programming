@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Enumeration
 |  |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivamA7-ai/c-programming/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
