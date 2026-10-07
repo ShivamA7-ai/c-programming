@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ShivamA7-ai/c-programming/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamA7-ai/c-programming/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamA7-ai/c-programming/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ShivamA7-ai/c-programming/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivamA7-ai/c-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
@@ -208,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShivamA7-ai/c-programming/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShivamA7-ai/c-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
