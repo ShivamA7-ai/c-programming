@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamA7-ai/c-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ShivamA7-ai/c-programming/tree/master/0771-jewels-and-stones) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamA7-ai/c-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamA7-ai/c-programming/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ShivamA7-ai/c-programming/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/ShivamA7-ai/c-programming/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/ShivamA7-ai/c-programming/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Manacher
