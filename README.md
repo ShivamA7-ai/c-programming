@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ShivamA7-ai/c-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ShivamA7-ai/c-programming/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/ShivamA7-ai/c-programming/tree/master/1572-matrix-diagonal-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShivamA7-ai/c-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShivamA7-ai/c-programming/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamA7-ai/c-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ShivamA7-ai/c-programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamA7-ai/c-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ShivamA7-ai/c-programming/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivamA7-ai/c-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
