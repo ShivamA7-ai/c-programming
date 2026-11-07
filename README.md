@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShivamA7-ai/c-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ShivamA7-ai/c-programming/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivamA7-ai/c-programming/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamA7-ai/c-programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -236,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShivamA7-ai/c-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ShivamA7-ai/c-programming/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
